@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/jason-YY/fuxi-test/issues"
   },
-  "homepage": "https://github.com/jason-YY/fuxi-test#readme"
+  "homepage": "https://github.com/jason-YY/fuxi-test#readme",
+  "dependencies": {
+    "chromedriver": "^2.31.0",
+    "selenium-webdriver": "^3.5.0"
+  }
 }
